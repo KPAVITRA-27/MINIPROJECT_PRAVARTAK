@@ -54,6 +54,14 @@ Firing	Normal	Email
 
     Verify alerts by monitoring CPU spikes.
 
+
+    📝 Best Practices
+
+✔ Test alerts before production deployment
+✔ Set meaningful thresholds for your workload
+✔ Use multiple channels for critical alerts
+✔ Review alert history periodically
+
 📌 Notes
 
 🔹 Ensure Grafana is properly configured to collect CPU metrics.
